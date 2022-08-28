@@ -1,0 +1,10 @@
+x=8.0
+y=4.0
+sum=x+y
+print(x+y)
+sub=x-y
+print(x-y)
+multi=x*y
+print(x*y)
+div=x/y
+print(x/y)
